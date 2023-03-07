@@ -9,7 +9,7 @@ input.onGesture(Gesture.Shake, function () {
     }
 })
 let Hand = 0
-basic.showIcon(IconNames.Yes)
+basic.showIcon(IconNames.Happy)
 basic.forever(function () {
 	
 })
